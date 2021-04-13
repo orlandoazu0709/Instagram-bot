@@ -8,7 +8,7 @@ Currently:
 2. logs in and sends message to pre-set account
 
 To run:
-
+  (virtual env recommended)
 - Install requirements.txt -> pip install -r requirements.txt
 - Install browser webdriver
    (ex. chrome webdriver -> https://chromedriver.chromium.org/downloads)
